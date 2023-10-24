@@ -5,3 +5,4 @@ function sum (numbers) {
 
 const numbersList = [1, 5.2, 4 , 0, -1];
 const result = sum (numbersList);
+module.exports = sum;
